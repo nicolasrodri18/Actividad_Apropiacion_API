@@ -53,6 +53,12 @@
   ],
   "posts": [
     {
+      "userId": 1,
+      "title": "Para que es una API",
+      "body": "La API permite la comunicación entre diferentes sistemas software.",
+      "id": "1"
+    },
+    {
       "id": "2",
       "userId": 2,
       "title": "HTTP y la web",
@@ -101,13 +107,7 @@
       "body": "Recomendaciones para diseñar APIs REST."
     },
     {
-      "id": "3462",
-      "userId": 1,
-      "title": "Que es una API",
-      "body": "Una API es una interfaz de programación de aplicaciones que permite la comunicación entre diferentes sistemas software."
-    },
-    {
-      "id": "8783",
+      "id": "5cde",
       "userId": 1,
       "title": "Que es una API",
       "body": "Una API es una interfaz de programación de aplicaciones que permite la comunicación entre diferentes sistemas software."
@@ -175,13 +175,7 @@
       "body": "Los códigos HTTP son importantes."
     },
     {
-      "id": "401c",
-      "postId": 1,
-      "name": "Juan Perez",
-      "body": "Buenas Practicas para la API"
-    },
-    {
-      "id": "c14c",
+      "id": "541f",
       "postId": 1,
       "name": "Juan Perez",
       "body": "Buenas Practicas para la API"
